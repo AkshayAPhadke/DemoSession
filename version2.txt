@@ -1,2 +1,2 @@
 Lineadded by dev 1
-line added by dev2
+line added by dev2 I want to add this line
